@@ -12,10 +12,17 @@ public class task10 {
                     System.out.println(name[i]);
 
 
+
+
                 }
             }
         }
     }
 }
+
+
+
+
+
 
 
