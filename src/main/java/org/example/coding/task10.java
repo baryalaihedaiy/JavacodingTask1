@@ -10,6 +10,8 @@ public class task10 {
             for (int j = i + 1; j < name.length; j++) {
                 if (name[i].equals(name[j])) {
                     System.out.println(name[i]);
+
+
                 }
             }
         }
